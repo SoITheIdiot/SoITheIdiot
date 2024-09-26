@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SoITheIdiot
+- As the name implies, im an idiot
+- I guess i want to code.
